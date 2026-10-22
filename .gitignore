@@ -1,0 +1,6 @@
+# ModelSim / QuestaSim artifacts
+work/
+transcript
+*.wlf
+*.vstf
+*.log
